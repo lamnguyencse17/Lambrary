@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "78884c577f1f5855",
+    "type": "split",
+    "children": [
+      {
+        "id": "0427e340396ec622",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53b2a9cac43f1a0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9586e7dda9270fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "320631fcc03c62f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec1bb68ca36e2e27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c5ea07bd59a8032",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb15d559303926b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188e89ec1525c5ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0427e340396ec622",
+  "lastOpenFiles": [
+    "Tech.md",
+    "README.md",
+    "Tech/Client Side Rendering.md",
+    "Tech/React.md",
+    "Tech/Untitled.md",
+    "Untitled.md"
+  ]
+}
