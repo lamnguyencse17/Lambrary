@@ -2,6 +2,7 @@
 
 ![[Elastic Search Position.png|Elastic Search in a Web App]]
 
+## Fundamentals
 - ES is a search engine that will:
 	- Format data
 	- Store data
@@ -16,3 +17,9 @@
 - [[Elastic Search Benefits|The benefits that ES provides]] are countless but it requires an significant amount of work before it can be put into use:
 	- [[Elastic Search - Planning and Researching|Planning and Researching]]
 	- Defining schemas
+
+- All the ES concepts are mentioned [[Elastic Search Concepts|here]]
+
+## ES in Action
+- [[Elastic Search Installation]]
+- Basic [[Elastic Search CRUD|CRUD]]
