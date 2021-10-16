@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "0427e340396ec622",
+        "id": "2b1933c7f3e62947",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -38,7 +38,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -82,13 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0427e340396ec622",
+  "active": "2b1933c7f3e62947",
   "lastOpenFiles": [
-    "Tech.md",
-    "README.md",
-    "Tech/Client Side Rendering.md",
-    "Tech/React.md",
-    "Tech/Untitled.md",
-    "Untitled.md"
+    "Tech/Elastic Search/Elastic Search Benefits.md",
+    "Tech/Elastic Search/Elastic Search Sharding.md",
+    "Tech/Elastic Search/Elastic Search Documents Storing.md",
+    "Tech/Elastic Search/Elastic Search Index.md",
+    "Tech/Elastic Search/Elastic Search Structure.md",
+    "Tech/Elastic Search/Untitled.md",
+    "Tech/Elastic Search/Elastic Search - Planning and Researching.md",
+    "Tech/Elastic Search/What Elastic Search trying to solve.md",
+    "Tech/Elastic Search.md",
+    "Tech/Elastic Stack.md"
   ]
 }
